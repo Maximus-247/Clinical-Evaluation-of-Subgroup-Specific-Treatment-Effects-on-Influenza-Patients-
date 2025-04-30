@@ -1,4 +1,5 @@
 # Subgroup Analysis: Fluvir™ Treatment Effects by Gender and Comorbidity
+![image alt](https://github.com/Maximus-247/Clinical-Evaluation-of-Subgroup-Specific-Treatment-Effects-on-Influenza-Patients-/blob/5f3dfdc060e43f26a02d75eb9680a3a1c9efd81b/Screenshot%202025-04-30%20223125.png)
 
 This project investigates whether the treatment effect of Fluvir™ differs across patient subgroups, specifically by gender and comorbidity status.
 
